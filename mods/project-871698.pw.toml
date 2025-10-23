@@ -1,0 +1,13 @@
+name = "project-871698"
+filename = "create-structures-0.1.1-1.20.1-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4632444
+project-id = 871698

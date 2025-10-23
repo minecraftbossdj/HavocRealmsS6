@@ -1,0 +1,13 @@
+name = "Extended Terminal"
+filename = "ExtendedTerminal-1.20.1-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "ecfe1a77850db855ffd40cec4eee11024559aff95f368294c147de7321e1ffbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6979413
+project-id = 1302078

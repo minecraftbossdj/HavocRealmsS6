@@ -1,0 +1,18 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-9.10+1.20.1-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "b15287651f9360f9b0180600b8e9a168b1b7c091de5073726087fd8b483c90bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7082934
+project-id = 623800
+
+[option]
+optional = true
+description = "dynamic crosshair, changes depending on what youre doing."
+default = true

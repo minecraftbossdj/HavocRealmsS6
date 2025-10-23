@@ -1,0 +1,13 @@
+name = "VS Safe and Sound"
+filename = "vsafe-forge-1201-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1683b3a29180d4c0f52b25b8ad3c599525b8f4cbe25c6f6d40915417fb8570ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6766837
+project-id = 1306442

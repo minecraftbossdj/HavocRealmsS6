@@ -1,0 +1,13 @@
+name = "SlashBlade:Resharped"
+filename = "SlashBladeResharped-1.20.1-1.3.43.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8T53F0sy/versions/JikKfBnv/SlashBladeResharped-1.20.1-1.3.43.jar"
+hash-format = "sha512"
+hash = "05c402561b037984e91704b605afa0a4a40ed43ad28c5fb874565db2c5d73241838a04505e5984f007910fa1bae81c73f959092c71f45fbfd02bfd31c8c5a8f4"
+
+[update]
+[update.modrinth]
+mod-id = "8T53F0sy"
+version = "JikKfBnv"

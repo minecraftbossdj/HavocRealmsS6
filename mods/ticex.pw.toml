@@ -1,0 +1,13 @@
+name = "TiCEX - Tinkers Construct EX"
+filename = "ticex-mc1.20.1-0.3.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZDgJ7ogS/versions/3hcPWVI1/ticex-mc1.20.1-0.3.2.4.jar"
+hash-format = "sha512"
+hash = "b4c4a80824dfb64ac333dd4c5b7133b1267919d9e07c5f6b6095ca74bc0ff4584f08b646ffd6e1ddf51265b33cdef8cc69a997db16edebf5d6ea2514411dc8c3"
+
+[update]
+[update.modrinth]
+mod-id = "ZDgJ7ogS"
+version = "3hcPWVI1"

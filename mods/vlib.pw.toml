@@ -1,0 +1,13 @@
+name = "VLib"
+filename = "vlib-1.20.1-0.0.15-alpha+forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7b62b3e537a648b2983857ec41bdd000b461993d621a042423a2ccdc4ed3195e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7100519
+project-id = 1265893

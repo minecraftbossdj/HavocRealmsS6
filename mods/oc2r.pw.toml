@@ -1,0 +1,13 @@
+name = "OpenComputers 2: Reimagined"
+filename = "oc2r-1.20.1-forge-2.2.6-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F1gm4RsH/versions/mVwyKgu3/oc2r-1.20.1-forge-2.2.6-all.jar"
+hash-format = "sha512"
+hash = "b520c5a0fbcc9eabc2ce2bbea7d92aad4976a83abf9fc3d1199ebeaae5a944a8b06791007ddec4b9e88815d806b885ee17ab778c0ec5b48655c0dd742f9c58ac"
+
+[update]
+[update.modrinth]
+mod-id = "F1gm4RsH"
+version = "mVwyKgu3"

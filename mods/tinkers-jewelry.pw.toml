@@ -1,0 +1,13 @@
+name = "Tinkers' Jewelry"
+filename = "tinkersjewelry-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "2b46ca592bb058fc004947b4f079ed2882fc439dc803f97dc2d28007f1dda2b12595368a93e05e51459225edc43be142762c97523078cebef9bfcc372bf597e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6328912
+project-id = 1191965

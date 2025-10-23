@@ -1,0 +1,13 @@
+name = "Hierophantics"
+filename = "hierophantics-forge-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ceb42f2323d21f49fd49385289b8b2ebe789d09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6957471
+project-id = 1293802

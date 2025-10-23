@@ -1,0 +1,13 @@
+name = "Re:Avaritia"
+filename = "Re-Avaritia-forged-1.20.1-1.3.9.3-alpha4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QeB3NRC5/versions/OVBezr55/Re-Avaritia-forged-1.20.1-1.3.9.3-alpha4.jar"
+hash-format = "sha512"
+hash = "35b41cfc7e9227933169425d6c41092554b9518be2878afd2a0836a4fca8a85e3829cfbfd6116433d4376b1006cffe0cee989434a333575539a6e6220169b792"
+
+[update]
+[update.modrinth]
+mod-id = "QeB3NRC5"
+version = "OVBezr55"

@@ -1,0 +1,13 @@
+name = "Digital Items 3"
+filename = "digitalitems-forge-1.20.1-0.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8f64e241eeac7d96fb99792e36a2fee0de289048787ebc0e06b0549966255e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7055164
+project-id = 875780

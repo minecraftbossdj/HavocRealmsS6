@@ -1,0 +1,13 @@
+name = "project-1284729"
+filename = "create_lamps_addon-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4963cd92ca6ba0ebe95e496617a39c7afef285ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6640626
+project-id = 1284729

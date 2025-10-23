@@ -1,0 +1,18 @@
+name = "Legendary Tooltips [Neo/Forge]"
+filename = "LegendaryTooltips-1.20.1-forge-1.4.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662781
+project-id = 532127
+
+[option]
+optional = true
+description = "LEGENDARY TOOLTIPS!!!!!!"
+default = true

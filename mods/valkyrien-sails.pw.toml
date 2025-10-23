@@ -1,0 +1,13 @@
+name = "Valkyrien Sails"
+filename = "vs_sails-1.20.1-0.2.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0c3a7cfb227f9022aa33c2d69f7a98b33a4b9319c127d3662c480904b77450d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7002104
+project-id = 1278593

@@ -1,0 +1,18 @@
+name = "Essential Mod"
+filename = "Essential_1-3-9-2_forge_1-20-1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "0fa397117a4d1bfea04d9ab8e9fff4015a59bb84f994ec4e5a3e2074244e4abe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7048961
+project-id = 546670
+
+[option]
+optional = true
+description = "goofy essential mod, you know what it does, ngl i cant find the other one so thats why that isnt here."
+default = true

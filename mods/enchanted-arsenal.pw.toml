@@ -1,0 +1,13 @@
+name = "[TACZ]Enchanted Arsenal"
+filename = "enchanted_arsenal-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iFRF5kc2/versions/Lob7MI5r/enchanted_arsenal-1.0.1-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "961eb2909276ae4a653734db1afb5dc6ae32e75b1ac1a82bb38c02ffd2b1a61c"
+
+[update]
+[update.modrinth]
+mod-id = "iFRF5kc2"
+version = "Lob7MI5r"
