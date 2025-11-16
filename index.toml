@@ -744,8 +744,8 @@ file = "mods/hexconnect-1.0.2.jar"
 hash = "e352cb25614458dc73fb3c4482c41432f90a3bbd0c85c6f8677a18a557b5c535"
 
 [[files]]
-file = "mods/hexical-2.0.0-beta1.jar"
-hash = "35360c0fb1d6442ba8dd16b970a756dc9b06e706b8325b885eaf9d5a9bb16d81"
+file = "mods/hexical-1.5.0.jar"
+hash = "c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2"
 
 [[files]]
 file = "mods/hexpose-1.0.0.jar"
