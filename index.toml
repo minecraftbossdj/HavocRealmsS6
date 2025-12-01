@@ -271,6 +271,10 @@ file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
 
 [[files]]
+file = "mods/ccx-forge-6.0.0-beta1.jar"
+hash = "6b578f4796f302161874568f7b6361c37b09dd04c14db2aed64e30d22a683826"
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "673deec1504e6a1419684d5e5858322d0f747c82e8a7da61dd0825b127010400"
 metafile = true
