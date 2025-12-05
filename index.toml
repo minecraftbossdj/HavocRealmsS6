@@ -639,8 +639,9 @@ hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.20.1-forge-mc.jar"
-hash = "fbda986e93d738f309d49d8f3ee5b7212942078381c5c9cfd7002975322f9f6b"
+file = "mods/figura.pw.toml"
+hash = "ac0ca548ac828c9fb9672db652de777defcf9765bad222d8653551c7f81943c8"
+metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"

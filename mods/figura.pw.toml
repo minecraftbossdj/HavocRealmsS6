@@ -1,0 +1,18 @@
+name = "Figura"
+filename = "figura-0.1.5+1.20.1-forge-mc.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f1820f219aefcf1a75cc203cd2a2115bc06696bf9e18b38f8aef308062c532d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6204468
+project-id = 901503
+
+[option]
+optional = true
+description = "Custom model mod"
+default = true
