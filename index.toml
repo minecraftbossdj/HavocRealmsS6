@@ -653,6 +653,11 @@ hash = "9ba347f823ad69a733c675f30fd25eef528545f0bd06c291591c9f87c67910e7"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "98a3ae0a4cf3ae7972fb256704b93dda0f15fa8c69abd42667c78b7db9af28d8"
 metafile = true
@@ -704,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "9b094cec5e0a29955a649210d6776aa6c6485a2116a78934264a6b5e1bec163e"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "0ae8ea8f2680deb033b40b89c90bf3921bd37224ec6f8c3ec2f326553619f74f"
 metafile = true
 
 [[files]]
@@ -938,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "e8e2b582e52ac13e3cd67cb2c8be853003625903c4040585ad60e1dbb0f2c48f"
 metafile = true
 
 [[files]]
@@ -1218,8 +1233,43 @@ hash = "ff358bb4cf548c8bf0383f6ad6e01daaa43ec0207e4d63405585a001514c17e5"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "4fcfa912e5663f1445fe3c4df7cd05a4dae2b3f828b5cea8865c71c1c305050b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "50821203e1ce17c63e191385d20bcbbcdc50558574c37602733b461be05be9f4"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "e16385d040347c49d129400153738064c99a67a37b19c37915efecb7dc00ca0d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "8282c1c9592f716e4ff0de099e69e19edf480795ef81256b5718ccbd376e6061"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "20795bc52932ae5a00626e835af106ba5e938de547b4dd767439d0aa67dbf1b6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "b037be98c83e494fcb62b2a93943f1d4b532d2ed2ec1b86039c6180401208c40"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
 metafile = true
 
 [[files]]
@@ -1450,6 +1500,11 @@ hash = "7b8f79191c52f76b528af6c4ec0ad1f61ff2d8f0b96636b160bcb257cfdfd6d1"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "bd7d87d8351faa44594a625036caa9221651cebc9dc678f277a4101e6437c79f"
 metafile = true
@@ -1457,6 +1512,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2f351e1c4106c97dfb233bee923f1fe6dfa24f4806fd36f2675504a48c0e4779"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "3d3ddb0d9891a8aafec380f88d7358f894a1ed155f406ee549aadbe030799d41"
 metafile = true
 
 [[files]]
