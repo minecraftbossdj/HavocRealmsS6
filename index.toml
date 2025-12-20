@@ -301,6 +301,10 @@ hash = "b64a2ab3dd839d63a58f605a79596e40334cefc78f76e51ce54f5682398b7b69"
 metafile = true
 
 [[files]]
+file = "mods/classicperipherals-0.3.0-forge-1.20.1-1.115.jar"
+hash = "05db653737de752e1581ca7c8892056326c2101850dd5477a1a9d815d06035d4"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
